@@ -19,7 +19,7 @@ MusicGen was published in Simple and Controllable Music Generation by Jade Copet
 ## Expected Outputs
 The program should receive an image of any real-life place and, based on that image, guess the country. After that, it takes the country name and puts it into another pipeline that generates music. This means there should be two outputs: one is the name of the country, and the second one is the music piece.
 
-#UPDATE
+# UPDATE
 I have changed the way I implemented the MusicGen model. Now, it works perfectly fine as a Hugging Face space, and I have shortened the length of the generated music for faster output. And I have added Arabic country names.
 
 # HuggingFace Space
